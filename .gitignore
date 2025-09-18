@@ -1,0 +1,25 @@
+# Windows system junk
+$RECYCLE.BIN/
+System Volume Information/
+Thumbs.db
+Desktop.ini
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# IDE configs
+.vscode/
+.idea/
